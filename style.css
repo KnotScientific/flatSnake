@@ -1,0 +1,26 @@
+.slider .track {
+    -fx-background-color:grey;  /* Hide the track */
+-fx-background-repeat: no-repeat;
+    -fx-padding: 2px;
+
+-fx-opacity: 0.3;
+}
+
+.slider .thumb {
+    -fx-background-image :url("sliderthumb.png");
+    -fx-background-repeat: no-repeat;
+          -fx-background-position: center;
+            -fx-background-size: 16px;
+           -fx-background-color: transparent;
+}
+.progress-bar > .track {
+   -fx-background-color: transparent;
+       -fx-background-insets: 0;
+       -fx-background-radius: 0;
+}
+.progress-bar .bar {
+-fx-background-radius: 5;
+-fx-background-color: #00477e;
+    -fx-padding: 3px;
+    -fx-background-insets: 1;
+}
