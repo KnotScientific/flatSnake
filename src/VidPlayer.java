@@ -160,7 +160,7 @@ public class VidPlayer extends Application {
                 window.setFullScreen(false);
             } else {
                 window.setFullScreen(true);
-            }
+            } 
         });
 
         final HBox hb = new HBox();
