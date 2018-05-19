@@ -1,4 +1,4 @@
-![alt text](sneklogo.png "flatSnake")
 # flatSnake
-                              flatSnake is a Minimalistic Media Player
-This is an ongoing project
+                              flatSnake is a Minimalistic Media Player Created using JavaFX and CSS
+![alt text](sneklogo.png "flatSnake")
+
